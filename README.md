@@ -39,9 +39,6 @@ src="https://assets.tryhackme.com/img/logo/tryhackme_logo_full.svg" alt="Pruthvi
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Pruthvirajsinh-Zala&show_icons=true&locale=en" alt="Pruthvirajsinh-Zala" /></p>
 
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=PruthvirajsinhZala&label=Profile%20Views&icon=8&pretty=false" />
-</a>
 
 ![snake gif](https://github.com/Pruthvirajsinh-Zala/Pruthvirajsinh-Zala/blob/output/github-snake-dark.svg)
 
