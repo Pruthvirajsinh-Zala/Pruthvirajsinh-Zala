@@ -42,7 +42,7 @@ src="https://assets.tryhackme.com/img/logo/tryhackme_logo_full.svg" alt="Pruthvi
 
 </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Pruthvirajsinh-Zala&row=2&column=3" alt="Pruthvirajsinh-Zala" /></a> 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Pruthvirajsinh-Zala&row=2&column=3" alt="Pruthvirajsinh-Zala" /></a> <br>
 <a href="https://github-readme-streak-stats.herokuapp.com"><img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Pruthvirajsinh-Zala" alt="Pruthvirajsinh-Zala"/></a>
 </p>
 
