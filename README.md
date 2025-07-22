@@ -53,7 +53,7 @@ src="https://assets.tryhackme.com/img/logo/tryhackme_logo_full.svg" alt="Pruthvi
 
 
 
-![snake gif](https://github.com/Pruthvirajsinh-Zala/Pruthvirajsinh-Zala/blob/output/github-snake-dark.svg)
+![snake gif](https://github.com/Pruthvirajsinh-Zala/Pruthvirajsinh-Zala/blob/output/github-snake.svg)
 
 <!---
 Pruthvirajsinh-Zala/Pruthvirajsinh-Zala is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
