@@ -52,7 +52,7 @@
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/Pruthvirajsinh-Zala/Pruthvirajsinh-Zala/blob/main/assets/vscode-original.svg" alt="vscode" width="38" height="38"/> </a>
   <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/flask/flask-original.svg" alt="flask" width="38" height="38"/> </a>
   <a href="https://www.anaconda.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/Pruthvirajsinh-Zala/Pruthvirajsinh-Zala/blob/main/assets/anaconda-original.svg" alt="anaconda" width="38" height="38"/> </a>
-  <a href="https://streamlit.io/" target="_blank" rel="noreferrer"> <img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.png" alt="streamlit" width="80" height="38"/> </a>
+  <a href="https://streamlit.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/streamlit/streamlit-original.svg" alt="streamlit" width="80" height="38"/> </a>
 </p>
 
 
