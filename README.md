@@ -4,7 +4,6 @@
 </p>
 
 
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Pruthvirajsinh-Zala&label=Profile%20views&color=0e75b6&style=flat" alt="Pruthvirajsinh-Zala" />
   <img src="https://img.shields.io/github/followers/Pruthvirajsinh-Zala?label=Follow&style=social" alt="GitHub Followers" />
