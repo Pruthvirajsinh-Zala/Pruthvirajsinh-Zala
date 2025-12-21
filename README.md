@@ -57,7 +57,7 @@
 <h3>📊 GitHub Stats & Trophies</h3>
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Pruthvirajsinh-Zala&row=1&column=6&margin-w=10&margin-h=10&theme=algolia" alt="Trophies" width="100%"/>
+    <img src="https://github-profile-trophy-1-2f242jbg5-pruthvirajsinh-zalas-projects.vercel.app/?username=Pruthvirajsinh-Zala&row=1&column=6&margin-w=10&margin-h=10&theme=algolia" alt="Trophies" width="100%"/>
   </a>
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pruthvirajsinh-Zala&theme=algolia&hide_border=true" alt="Streak Stats" width="48%"/>
